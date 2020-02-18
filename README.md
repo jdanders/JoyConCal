@@ -10,6 +10,7 @@ JoyConCal is a free product that I work on in my free time, so any contributions
 ## Installation
 
 1. Download the latest zip from the [releases page](https://github.com/jdanders/JoyConCal/releases) and extract it somewhere
+2. Install [Visual C++ 2015-2019 Redistributable x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 3. Run the executable
 
 ## Usage
